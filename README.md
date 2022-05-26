@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello, I'm Baramee Chaiho  👋
 <!--
 **Baramee0/Baramee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
