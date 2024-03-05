@@ -28,10 +28,3 @@
 
 <br/>  
 
-## 🐱 Github Stats  
-[![Baramee0's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baramee0&exclude_repo=&hide=&langs_count=4&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Baramee0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baramee0&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>  
-
