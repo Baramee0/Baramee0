@@ -1,30 +1,11 @@
-<h1 align="center">Hi 👋, I'm Baramee Chaiho</h1>
-<h3 align="center">:grinning: I am Junior Full Stack Developer in Weltron ID Technology co.,Ltd. :grinning:</h3>
+<div align="center">
 
-## 🔭 Project  
+# Hi there 👋, I'm Baramee Chaiho
 
-[![Baramee0's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Baramee0&repo=Notification-On-Discord&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![grindarius's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=grindarius&repo=reeba&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 Junior Full Stack Developer
+Currently working at **Weltron ID Technology co.,Ltd.**
 
-## 🚀 Connect with me  
+<br/>
 
-<a href="https://github.com/Baramee0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/Barameechaiho15579" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/14594597" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/phet_chaiho" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 
-  
-
-<br/>  
-</div>
-
-<br/>  
-
+<br/>
