@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baramee Chaiho</h1>
-<h3 align="center">:grinning: I am student in Computer Science major in Naresuan University in Thailand. :grinning:</h3>
+<h3 align="center">:grinning: I am Junior Full Stack Developer in Weltron ID Technology co.,Ltd. :grinning:</h3>
 
 ## 🔭 Project  
 
